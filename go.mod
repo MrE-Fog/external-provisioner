@@ -10,17 +10,17 @@ require (
 	github.com/imdario/mergo v0.3.13 // indirect
 	github.com/kubernetes-csi/csi-lib-utils v0.14.0
 	github.com/kubernetes-csi/csi-test/v5 v5.0.0
-	github.com/kubernetes-csi/external-snapshotter/client/v6 v6.2.0
+	github.com/kubernetes-csi/external-snapshotter/client/v6 v6.3.0
 	github.com/miekg/dns v1.1.48 // indirect
 	github.com/prometheus/client_golang v1.16.0
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.8.4
 	google.golang.org/grpc v1.57.0
 	google.golang.org/protobuf v1.31.0
-	k8s.io/api v0.27.2
-	k8s.io/apimachinery v0.27.2
+	k8s.io/api v0.28.0
+	k8s.io/apimachinery v0.28.0
 	k8s.io/apiserver v0.27.0
-	k8s.io/client-go v0.27.2
+	k8s.io/client-go v0.28.0
 	k8s.io/component-base v0.27.2
 	k8s.io/component-helpers v0.27.0
 	k8s.io/csi-translation-lib v0.27.0
